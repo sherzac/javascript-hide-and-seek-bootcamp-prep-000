@@ -7,5 +7,5 @@ function nestedTarget() {
 }
 
 function deepestChild() {
-  let 
+  let node = document.getElement
 }
